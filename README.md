@@ -62,7 +62,7 @@ HR_Analytics_Project/
 │   └── HR_analytics(2).csv
 │
 ├── src/
-│   └── hr_analysis.py
+│   └── hr_analysis.ipynb
 │
 ├── charts/
 │   ├── 01_employee_attrition.png
@@ -73,13 +73,8 @@ HR_Analytics_Project/
 │   ├── 06_age_vs_attrition.png
 │   ├── 07_monthly_income_distribution.png
 │   └── 08_correlation_heatmap.png
-│
-├── reports/
-│   └── HR_Analytics_Report.pdf
-│
 ├── README.md
-│
-└── requirements.txt
+
 ```
 
 ---
