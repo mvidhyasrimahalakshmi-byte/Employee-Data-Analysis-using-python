@@ -59,7 +59,7 @@ The dataset contains employee-related information such as:
 HR_Analytics_Project/
 │
 ├── data/
-│   └── HR_analytics(2).csv
+│   └── HR_analytics.csv
 │
 ├── src/
 │   └── hr_analysis.ipynb
